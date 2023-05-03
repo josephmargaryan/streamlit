@@ -1,0 +1,194 @@
+gender,age,specific_sport,temporal_exposure_to_sport,frequency_of_training,frequency_of_other_sports,injury_present,location_of_injury,injury_explanation,has_injury_affected_perf,complex_injury_explanation,complex_injury_situation,frequency_of_doctor_visits,changes_to_doctor_visits,status_on_ques
+1,4,BOKSNING,4,2,Mindre end en gang om ugen,0,,,0,,,2,1,Gennemført
+0,1,MUAY_THAI,5,1,Mellem 2-3 gange om ugen,1,Skulderen,4.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter","Min venstre skulder, i ledet, gør ondt ved visse aktiviteter. Og det har stået på i 5 år",1,3,Gennemført
+1,2,BJJ,5,3,Mellem 2-3 gange om ugen,1,Knæ,4.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,4,3,Gennemført
+0,2,FODBOLD,5,4,Mindre end en gang om ugen,1,Fod,2.0,0,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,3,Gennemført
+1,1,BJJ,4,3,Mindre end en gang om ugen,0,,,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,2,2,Gennemført
+0,2,MMA,5,3,Mellem 2-3 gange om ugen,1,"Knæ, håndled, albue",1.0,0,,,1,2,Gennemført
+0,1,MMA,4,3,Mindre end en gang om ugen,1,Venstre skulder,4.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,3,Gennemført
+0,3,BJJ,5,3,Mindre end en gang om ugen,1,"Knæ, fingre, skulder",1.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,1,2,Gennemført
+0,4,BJJ,5,3,Mindre end en gang om ugen,1,"Knæ, hofte,nakke og albue",2.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,3,2,Gennemført
+0,2,MUAY_THAI,4,3,Mellem 2-3 gange om ugen,1,Knoer,1.0,0,,,1,2,Gennemført
+0,2,MMA,4,3,Mindre end en gang om ugen,1,Lår.,2.0,0,,Miniskader sker her og der. Afhænger af type og intensitet af træning.,1,2,Gennemført
+0,2,FODBOLD,4,3,Mindre end en gang om ugen,1,"Knæ, skulder",3.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,1,2,Gennemført
+1,4,BOKSNING,4,2,Mindre end en gang om ugen,1,Skulder,4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,Burifis betændelse,4,3,Gennemført
+0,2,FODBOLD,5,3,Mellem 2-3 gange om ugen,1,"Albue, skulder, foden",2.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,2,2,Gennemført
+0,2,FODBOLD,5,3,Mindre end en gang om ugen,1,"Albuer, skulder, nakke, lænden, lysken",3.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,4,1,Gennemført
+0,3,FODBOLD,4,2,Mellem 2-3 gange om ugen,1,"hoved, nakke, hænder, fingre, knæ, tæer",2.0,0,,,1,2,Gennemført
+1,3,BJJ,5,1,Mellem 2-3 gange om ugen,0,,,0,,,1,2,Gennemført
+0,3,BJJ,5,3,Mindre end en gang om ugen,1,"Knæ, ryg, skulder.",3.0,1,,Varige smerter fra skader. Lever med dem.,1,2,Gennemført
+0,1,MUAY_THAI,5,3,Mellem 2-3 gange om ugen,0,foden,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,1,MUAY_THAI,5,4,Mindre end en gang om ugen,1,,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,2,3,Gennemført
+0,1,MMA,4,4,Mindre end en gang om ugen,0,,,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,2,2,Gennemført
+0,2,BJJ,5,2,Mindre end en gang om ugen,0,,,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,1,Gennemført
+0,1,MMA,3,4,Mellem 2-3 gange om ugen,0,,,0,,,1,1,Gennemført
+0,4,MUAY_THAI,5,2,Mellem 2-3 gange om ugen,1,Ben fødder,1.0,0,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,2,FODBOLD,3,3,Mindre end en gang om ugen,1,Fod og nakke,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",Jeg kunne deltage i teknik men ikke live rul,3,2,Gennemført
+0,3,BJJ,5,3,Mindre end en gang om ugen,1,Knæ og ryg,4.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,3,2,Gennemført
+0,2,MMA,5,3,Mellem 2-3 gange om ugen,1,Albuen,1.0,0,,Smerten i albuen har været on off i flere måneder.,1,2,Gennemført
+0,3,MMA,5,2,Mellem 2-3 gange om ugen,1,bare almindeligt ømme lår og gamle knæ,1.0,1,Jeg kunne ikke dyrke sport i mere end en uge,Et trykket ribben der fik mig til at stoppe træning i 3-4 uger.,2,2,Gennemført
+0,1,MUAY_THAI,2,3,Mindre end en gang om ugen,1,"Skulder, fod, albue, hoved",2.0,0,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,2,2,Gennemført
+0,3,BJJ,5,2,Mindre end en gang om ugen,1,Lænd,3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,2,3,Gennemført
+0,2,MUAY_THAI,3,4,Mellem 2-3 gange om ugen,1,Ben/skuldre,3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,2,1,Gennemført
+0,1,FODBOLD,2,3,Mellem 2-3 gange om ugen,1,Knæ og albue,3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,1,2,Gennemført
+0,2,FODBOLD,4,3,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+0,3,BJJ,5,4,Mellem 2-3 gange om ugen,1,"Knæ, nakke, håndled",4.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,3,3,Gennemført
+1,3,FODBOLD,3,2,Mindre end en gang om ugen,1,"Ribben, og fingre",3.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,2,1,Gennemført
+0,3,BJJ,5,2,Mindre end en gang om ugen,1,Nakken,4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,Tilbagevendene diskus prolaps med nervepåvirkning,1,3,Gennemført
+0,3,BJJ,5,1,Mindre end en gang om ugen,1,"Knæ, lænd",2.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,3,3,Gennemført
+1,2,BJJ,4,2,3-5 gange om ugen,1,Især Venstre hofte og Venstre knæ,2.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,"Mens jeg dyrkede BJJ på højere plan end nu, fik jeg konstateret hoftedysplasi (fejlskabte hofter). Især i Venstre side. Det gør så at hver gang jeg lavede knee shield, så irriterede jeg ledbånd og muskler i Venstre side og fik også i den periode gentagne bursitter i hoften. Så for ikke at have smerter i hoften hver dag, måtte jeg trappe ned i BJJ træning og stoppe med at konkurrere :-(",4,2,Gennemført
+0,4,MUAY_THAI,2,2,Mindre end en gang om ugen,1,Knæ,4.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,Ødelagt menisk,2,2,Gennemført
+1,1,BJJ,5,4,3-5 gange om ugen,1,I låret og knæ,4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,Jeg fik staph,4,3,Gennemført
+0,3,JUDO,5,1,Mindre end en gang om ugen,1,"Finger, wrist",2.0,0,,,1,3,Gennemført
+0,3,BJJ,5,3,Mindre end en gang om ugen,1,Øhh hele kroppen. Knæ og ryg mest,1.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",Nej,1,2,Gennemført
+0,1,MUAY_THAI,5,3,3-5 gange om ugen,1,Hænderne,4.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",Har en skade i hånden efter at have slået et hook i en kamp,4,2,Gennemført
+0,2,MUAY_THAI,3,3,Mindre end en gang om ugen,1,Underlår og lår,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,2,BJJ,3,2,Mellem 2-3 gange om ugen,1,"Fingre, knæ og albuer",1.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,1,3,Gennemført
+1,4,HÅNDBOLD,5,1,Mindre end en gang om ugen,1,Skulder,2.0,0,"Jeg kunne godt fortsætte, men havde moderate smerter",,4,2,Gennemført
+0,1,MMA,5,3,Mellem 2-3 gange om ugen,1,Læn,3.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,1,3,Gennemført
+1,2,BJJ,5,2,Mindre end en gang om ugen,1,"Trykkede ribben, ømme muskler, ømme lår/arme/hals",2.0,0,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,3,FODBOLD,5,4,Mellem 2-3 gange om ugen,1,Skulder,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,1,Gennemført
+0,4,FODBOLD,5,2,Mindre end en gang om ugen,1,Knæ,3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,Ja,1,2,Gennemført
+1,4,FODBOLD,5,3,Mindre end en gang om ugen,1,I højre knæ,2.0,0,,,1,1,Gennemført
+0,3,MUAY_THAI,5,3,Mindre end en gang om ugen,1,Min skulder/brust område,2.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,2,2,Gennemført
+0,3,FODBOLD,5,3,Mindre end en gang om ugen,1,Det ene knæ,3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,1,2,Gennemført
+0,4,FODBOLD,4,2,Mindre end en gang om ugen,1,Skuldre,4.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,Inflamation i slimsække i skuldrene,2,2,Gennemført
+0,3,MMA,5,2,Mellem 2-3 gange om ugen,0,,,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,1,2,Gennemført
+0,2,BJJ,4,3,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+1,2,MUAY_THAI,5,2,Mindre end en gang om ugen,1,Knæ og ankel,2.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,1,Gennemført
+0,2,MUAY_THAI,5,3,Mellem 2-3 gange om ugen,0,,,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,1,FODBOLD,4,2,Mellem 2-3 gange om ugen,1,Knæet,3.0,0,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,2,BJJ,4,3,Mellem 2-3 gange om ugen,1,"Knæ, fod,",4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,2,2,Gennemført
+0,1,JUDO,5,1,Mellem 2-3 gange om ugen,0,,,0,,,1,2,Gennemført
+0,2,MMA,3,2,Mellem 2-3 gange om ugen,1,Led,3.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,Overanstrenger skulder,4,2,Gennemført
+1,3,FODBOLD,5,1,Mindre end en gang om ugen,1,"Ankel, hofte",4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,Indeklemningssyndrom i hoften der krævede operation,3,2,Gennemført
+0,2,FODBOLD,3,2,Mindre end en gang om ugen,1,"Ryg, skulder og fod",3.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,3,3,Gennemført
+0,2,FODBOLD,5,4,Mellem 2-3 gange om ugen,1,"Læn, Nakke, Hofte, Skulder, Knæ",4.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,Bla. Stafolykokker i benet,4,1,Gennemført
+0,3,BJJ,3,3,Mindre end en gang om ugen,1,"hånd, knæ, fod, og kæbe",2.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,1,MMA,5,4,3-5 gange om ugen,0,,,0,,,3,2,Gennemført
+0,2,BJJ,4,3,Mellem 2-3 gange om ugen,1,Skulder,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,2,3,Gennemført
+0,4,MUAY_THAI,5,2,Mellem 2-3 gange om ugen,0,,2.0,0,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,1,1,Gennemført
+0,3,BJJ,5,4,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+0,1,MUAY_THAI,3,2,3-5 gange om ugen,1,Ben,2.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,1,2,Gennemført
+0,3,MUAY_THAI,5,2,Mindre end en gang om ugen,1,"Venstre knæ, hele ryggen",3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,"Infiltrationer i ryg, knæ som låser",3,3,Gennemført
+0,2,MUAY_THAI,5,4,3-5 gange om ugen,1,"Skuldre, baglår",3.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,3,2,Gennemført
+1,2,MUAY_THAI,4,4,Mellem 2-3 gange om ugen,1,"Lysken, skulder, håndled, hoved (tinding)",3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,3,Gennemført
+0,2,BJJ,5,4,Mindre end en gang om ugen,1,skuldre og nakke,2.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,1,2,Gennemført
+0,2,BJJ,5,3,Mellem 2-3 gange om ugen,1,muskler langs rygsøjle,2.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,1,2,Gennemført
+0,2,BJJ,3,3,Mellem 2-3 gange om ugen,1,i ryg lænden,4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,hekseskud i lænden,3,2,Gennemført
+1,4,MUAY_THAI,5,2,Mellem 2-3 gange om ugen,1,Venstre skulder,3.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,1,2,Gennemført
+0,2,MUAY_THAI,3,3,Mindre end en gang om ugen,1,Ribben,3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,1,2,Gennemført
+0,3,FODBOLD,5,2,Mellem 2-3 gange om ugen,1,Knee,1.0,0,,,1,1,Gennemført
+0,1,FODBOLD,5,3,Mindre end en gang om ugen,1,Ryg,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,3,MUAY_THAI,4,2,Mindre end en gang om ugen,0,,,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,2,BJJ,2,2,Mellem 2-3 gange om ugen,1,albue og ben,3.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,4,3,Gennemført
+0,3,MUAY_THAI,5,3,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+1,3,FODBOLD,5,2,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+0,2,HÅNDBOLD,5,2,Mellem 2-3 gange om ugen,1,Ryg,3.0,1,Jeg kunne ikke dyrke sport i mere end en uge,Iskas nerve i klemme,2,2,Gennemført
+1,1,HÅNDBOLD,4,2,Mellem 2-3 gange om ugen,0,,,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+1,2,BOULDERING,5,2,Mellem 2-3 gange om ugen,0,,,1,"Jeg kunne godt fortsætte, men havde moderate smerter",Der var nogen greb jeg undgik,1,2,Gennemført
+0,1,BOULDERING,1,2,Mellem 2-3 gange om ugen,1,Skinneben/leg,1.0,0,,,1,2,Gennemført
+1,1,SVØMNING,5,4,Mindre end en gang om ugen,1,Skulderen,4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,4,3,Gennemført
+1,1,DANS,5,3,Mellem 2-3 gange om ugen,1,"Knæ, skinneben",2.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,"Var bange for at det var en overbelastning, og vurderede derfor det var bedst at holde en lille pause",1,2,Gennemført
+1,1,HÅNDBOLD,5,2,Mindre end en gang om ugen,1,Fod,4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,2,2,Gennemført
+0,1,FODBOLD,5,4,Mellem 2-3 gange om ugen,0,,,0,,,1,2,Gennemført
+0,3,BOULDERING,1,1,Mindre end en gang om ugen,1,Ve. albue,2.0,0,"Jeg kunne godt fortsætte, men havde moderate smerter",,2,2,Gennemført
+0,1,BOULDERING,5,2,Mellem 2-3 gange om ugen,1,Venstre forside skulder,1.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,1,2,Gennemført
+1,2,FODBOLD,5,4,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+1,2,FODBOLD,5,4,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+1,1,DANS,1,1,Mellem 2-3 gange om ugen,1,Knæ,4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,4,2,Gennemført
+1,1,SVØMNING,5,4,Mellem 2-3 gange om ugen,1,Skulder og knæ,4.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,2,2,Gennemført
+1,2,BOULDERING,4,2,Mindre end en gang om ugen,1,Skulder og fingerled,2.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,1,3,Gennemført
+1,1,FODBOLD,4,3,Mellem 2-3 gange om ugen,0,,2.0,0,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+1,1,FODBOLD,5,2,Mindre end en gang om ugen,1,Har knæskade,1.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,4,2,Gennemført
+1,1,FODBOLD,5,2,Mellem 2-3 gange om ugen,1,Anklerne,2.0,0,,"Smerten har ikke givet problemer ifm. ridning, men det har derimod været et problem ift. løb og træning ved siden af, hvor jeg har måttet holde pause",1,2,Gennemført
+1,2,BOULDERING,3,3,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+1,4,FODBOLD,5,4,Mindre end en gang om ugen,1,Lænd,2.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,1,2,Gennemført
+0,4,HÅNDBOLD,5,1,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+1,3,FODBOLD,5,1,3-5 gange om ugen,1,"Ankel, lænd",4.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",Justering af træning,4,1,Gennemført
+1,4,DANS,5,2,Mellem 2-3 gange om ugen,1,"Achillessene, sene i lårmuskel",3.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,4,2,Gennemført
+0,2,MUAY_THAI,3,3,Mindre end en gang om ugen,1,På læggen,2.0,0,,,1,2,Gennemført
+1,2,BOULDERING,3,2,Mellem 2-3 gange om ugen,1,knæ,,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+1,4,FODBOLD,5,3,Mindre end en gang om ugen,1,Hånden,2.0,0,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,2,BOULDERING,5,2,3-5 gange om ugen,1,"Ankel, hofte",2.0,0,,,1,2,Gennemført
+0,1,BOULDERING,5,4,Mindre end en gang om ugen,1,Skulder,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+1,1,FODBOLD,5,4,3-5 gange om ugen,1,Ryg og nakke,4.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",Kronisk skade - fortsætter på trods af smerterne,4,3,Gennemført
+0,1,FODBOLD,1,2,3-5 gange om ugen,1,"skulder, knæ, skinneben, håndled",3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,3,3,Gennemført
+1,1,FODBOLD,4,2,Mindre end en gang om ugen,0,,,1,"Jeg kunne godt fortsætte, men havde moderate smerter","Jeg kan godt fortsætte med at ride, men det forværre min ridning",2,2,Gennemført
+1,1,FODBOLD,5,4,Mellem 2-3 gange om ugen,0,,,0,,,1,2,Gennemført
+1,1,FODBOLD,5,4,Mindre end en gang om ugen,1,Skulderen,3.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,4,2,Gennemført
+1,1,FODBOLD,5,3,Mindre end en gang om ugen,1,Begge Knæ og læg,2.0,0,,,1,2,Gennemført
+1,2,BOULDERING,4,2,Mellem 2-3 gange om ugen,1,Hofte og ben,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,3,Gennemført
+1,1,BOULDERING,4,3,Mellem 2-3 gange om ugen,1,Skulderblad,3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,1,2,Gennemført
+0,1,BOULDERING,4,3,Mindre end en gang om ugen,1,"Fingre, underarme, albuer, knæ, skuldre, hofte, ankel mm.",3.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,"Mange af mine skader kræver ikke en diagnose, da de er typiske indefor klatring er det nemt at vide hvilke pause, støtte og genoptræning der skal til. Uden selv at have denne viden ville jeg have besøgt læge og fys nogle gange de seneste 3 måneder.",1,2,Gennemført
+1,1,FODBOLD,5,4,Mere end 5 gange om ugen,1,Lænd/ bækken/ hø. Ben,4.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,4,3,Gennemført
+1,3,FODBOLD,4,2,3-5 gange om ugen,1,"Fod, skulder, bækken",3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,4,BJJ,5,2,Mellem 2-3 gange om ugen,0,,,0,,,1,2,Gennemført
+0,3,FODBOLD,5,4,Mindre end en gang om ugen,1,"Skulder, lydske og knæ",3.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,4,3,Gennemført
+0,1,BOULDERING,5,4,Mindre end en gang om ugen,0,,,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,Jeg brækkede min hæl...,4,3,Gennemført
+0,1,BOULDERING,1,2,Mellem 2-3 gange om ugen,0,,,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,1,Gennemført
+0,4,JUDO,3,2,Mellem 2-3 gange om ugen,1,Fingre og knæ,3.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,1,2,Gennemført
+0,2,JUDO,5,2,Mindre end en gang om ugen,0,,,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,4,BJJ,5,3,Mellem 2-3 gange om ugen,1,Fingreled,2.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+1,1,BJJ,5,1,Mindre end en gang om ugen,1,"Finger (løftet negl), knæ (ude af led)",3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,"Mit knæ har været ude af led før, og det skete igen men i mild form. Måtte blive væk fra sporten helt i 1 uge og startede på lidt teknik på den 2 uge. Har haft brug for genoptræning af knæet siden",1,2,Gennemført
+0,2,JUDO,4,3,Mellem 2-3 gange om ugen,1,Skulderen,3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,Ja,2,2,Gennemført
+1,4,FODBOLD,2,2,Mellem 2-3 gange om ugen,0,,,0,,,1,1,Gennemført
+1,4,FODBOLD,5,3,Mellem 2-3 gange om ugen,0,,,0,,,1,2,Gennemført
+1,1,FODBOLD,5,1,Mindre end en gang om ugen,1,Ankel,4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,4,2,Gennemført
+1,4,FODBOLD,5,4,Mellem 2-3 gange om ugen,0,,,0,,,1,2,Gennemført
+1,2,FODBOLD,5,1,Mere end 5 gange om ugen,1,"Albue, knæ, SI led",4.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,2,2,Gennemført
+1,1,FODBOLD,5,4,Mindre end en gang om ugen,1,Knæet,4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,2,2,Gennemført
+0,3,JUDO,5,2,3-5 gange om ugen,1,Knæ,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,1,BOULDERING,3,3,Mellem 2-3 gange om ugen,1,"Albue, knæ",3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,1,2,Gennemført
+1,1,FODBOLD,5,4,Mellem 2-3 gange om ugen,1,Ryggen,2.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+1,1,FODBOLD,5,4,Mellem 2-3 gange om ugen,1,"Flere muskelgrupper, bl.a. mave lår og ryg",2.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter","Gamle sports-skader fra hesteryg, giver gener hver dag. Bl.a. gammel hovedskade, hofteskade og brækket kraveben inden for de sidste 2 år",3,3,Gennemført
+0,3,MMA,5,3,Mellem 2-3 gange om ugen,1,I lår muskler efter spark fra kamp,2.0,0,,,1,1,Gennemført
+0,2,BOULDERING,5,2,Mellem 2-3 gange om ugen,1,"Knæ, finger",1.0,0,,,1,2,Gennemført
+0,1,BOULDERING,1,2,,0,,,0,,,1,2,Nogen svar
+1,2,FODBOLD,5,4,Mindre end en gang om ugen,1,"Hofter, ryg",3.0,0,"Jeg kunne godt fortsætte, men havde moderate smerter","Mange gamle skader, altid smerter",3,1,Gennemført
+1,1,FODBOLD,5,4,Mellem 2-3 gange om ugen,0,,,0,,,1,1,Gennemført
+1,2,FODBOLD,5,4,Mindre end en gang om ugen,1,"Nedre del af lænden, venstre side",3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter","Jeg har en gammel skade i lænden, der sprang op fordi jeg blev smidt af. Måtte til fysioterapeut for at det blev bedre.",3,2,Gennemført
+1,4,FODBOLD,5,4,Mellem 2-3 gange om ugen,1,Fod,2.0,0,,,1,2,Gennemført
+0,3,FODBOLD,5,4,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+1,4,FODBOLD,5,1,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+1,4,FODBOLD,3,3,3-5 gange om ugen,1,Særligt i den ene underarm på langs,,0,"Jeg kunne godt fortsætte, men havde moderate smerter","Smerten er konstant, men jeg vil nødig stoppe med at ride og det kommer af grebet i tøjlen",1,2,Gennemført
+1,3,BOULDERING,5,3,Mindre end en gang om ugen,1,"Fingre, knæ",,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,"Slidgigt, menisk skader",1,2,Gennemført
+0,2,BOULDERING,4,3,Mellem 2-3 gange om ugen,1,Skulder,3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,3,2,Gennemført
+1,1,FODBOLD,4,4,Mindre end en gang om ugen,1,Ryg,2.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,2,FODBOLD,5,3,3-5 gange om ugen,1,I lænden,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,1,Gennemført
+1,1,FODBOLD,5,4,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+1,2,BOULDERING,4,3,Mellem 2-3 gange om ugen,1,"Fingre, hud, skulder, triceps",2.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,3,Gennemført
+0,3,BOULDERING,5,4,Mellem 2-3 gange om ugen,1,knæ og albue,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",Nej,1,2,Gennemført
+1,1,SVØMNING,5,4,3-5 gange om ugen,1,Skuldren eller knæ,2.0,0,,,1,2,Gennemført
+0,4,MUAY_THAI,5,3,Mindre end en gang om ugen,1,"Hofte, knæ",4.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,Slidgigt,4,3,Gennemført
+1,2,FODBOLD,5,1,3-5 gange om ugen,1,"Hofte, lænd, skulder (højre side) fra styrt med hest",,1,,"Kroniske smerter fra styrt i teenage årene, ovenstående spørgsmål passer ikke til. Læge/sygehus er ligeglade, sygehus gad ikke engang tjekke mig efter styrt på hest. Benytter kiropraktor efter behov igennem sundhedsforsikring",1,1,Gennemført
+1,4,FODBOLD,5,4,Mindre end en gang om ugen,1,Lænderyg,2.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,1,1,Gennemført
+0,1,BOULDERING,5,1,3-5 gange om ugen,1,"Knæ, skulder",3.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,2,2,Gennemført
+0,3,HÅNDBOLD,5,4,Mellem 2-3 gange om ugen,1,Anklen,2.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,4,1,Gennemført
+0,2,BJJ,3,2,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+1,1,FODBOLD,5,2,Mellem 2-3 gange om ugen,0,,,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,1,2,Gennemført
+0,1,BOULDERING,3,1,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+1,4,SVØMNING,5,3,Mindre end en gang om ugen,0,,,0,,,1,1,Gennemført
+0,2,MUAY_THAI,5,2,Mindre end en gang om ugen,1,Lænden,4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,,4,2,Gennemført
+1,1,RIDNING,5,1,Mindre end en gang om ugen,0,,,0,,,3,2,Gennemført
+0,2,BOULDERING,4,2,Mellem 2-3 gange om ugen,1,Hånd,2.0,0,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,1,2,Gennemført
+1,3,FODBOLD,5,1,Mere end 5 gange om ugen,1,Hofter,4.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,4,2,Gennemført
+1,1,SVØMNING,4,2,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+0,1,BOKSNING,4,3,Mellem 2-3 gange om ugen,1,"Næsen, skuldre, og håndled",4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,Kan ikke lige pt træne grundet næseoperation,4,2,Gennemført
+1,1,RIDNING,5,3,Mellem 2-3 gange om ugen,1,Lysken,2.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,,1,2,Gennemført
+0,2,BOULDERING,3,2,Mindre end en gang om ugen,1,Fingrene,3.0,1,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,2,2,Gennemført
+1,2,BOULDERING,3,2,Mindre end en gang om ugen,1,Knæ,2.0,0,,,1,2,Gennemført
+0,1,FODBOLD,5,2,Mindre end en gang om ugen,1,Ankel,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,2,3,Nogen svar
+0,1,FODBOLD,5,2,Mindre end en gang om ugen,1,Ankel,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter",,3,3,Gennemført
+1,4,FODBOLD,3,4,Mindre end en gang om ugen,0,,,0,,,1,2,Gennemført
+0,1,MUAY_THAI,2,3,Mellem 2-3 gange om ugen,1,Ankel (omvrikning),2.0,0,Jeg vurderede selv at jeg havde brug for en pause i op til en uge,,1,2,Gennemført
+0,3,FODBOLD,4,2,Mellem 2-3 gange om ugen,1,Venstre arm,3.0,1,Jeg kunne ikke deltage i særlige anstrengende aktiviteter i min sportsklub,Ikke alvorlig inflammation som endnu ikke er væk,3,2,Gennemført
+1,1,RIDNING,5,4,3-5 gange om ugen,0,,,0,,,1,2,Gennemført
+1,1,FODBOLD,5,4,3-5 gange om ugen,1,Venstre fod,3.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter","Mistænker noget i foden er brækket, men vil ikke have svar på det, da jeg er ved at træne op til flere ting og ikke har tid til at sidde stille",1,2,Gennemført
+1,1,FODBOLD,4,3,Mindre end en gang om ugen,1,Venstre side af kroppen pga smidt af og flænge i hagen,2.0,0,,,2,2,Gennemført
+1,1,FODBOLD,5,3,3-5 gange om ugen,1,Mine knæ og ryg,2.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter","Jeg har problemer med mine knæ, så det er ikke en decideret skade. Dog hæmmer det mig stadig og gør at jeg har smerter under ridning.",4,3,Gennemført
+1,4,DANS,5,3,Mellem 2-3 gange om ugen,0,,,0,,,1,1,Gennemført
+1,1,RIDNING,5,4,Mindre end en gang om ugen,1,Ryggen,3.0,1,Jeg kunne ikke dyrke sport i mere end en uge,Min hest lavede to bukkespring efter hinanden så min ryg stødet mod hesten. Jeg har efterfølgende ikke kunne ride i nu 2 uger,2,2,Gennemført
+0,2,MMA,5,3,Mellem 2-3 gange om ugen,1,"Højre skulder, Højre Håndled.",4.0,1,"Jeg kunne godt fortsætte, men havde moderate smerter","Efter en Kamp, måtter jeg holde en kort pause da min skulder og håndled nærmest skulle genoptrænes fra bunden, de er siden blevet brugbare men har stadig betydelige smerter, det er 5mdr siden. Det er gået op for mig at genoptræning og ro ikke er nok, og jeg venter på at kunne komme til lægen.",1,2,Gennemført
+1,1,FODBOLD,5,4,Mindre end en gang om ugen,1,Overalt,4.0,1,Jeg kunne ikke dyrke sport i mere end en uge,I perioder mere kompleks,4,3,Gennemført
+0,3,BOULDERING,3,2,Mindre end en gang om ugen,1,Højre albue,3.0,1,Jeg kunne ikke dyrke sport i mere end en uge,"Jeg fik en slem tennisalbue i oktober, som gjorde, at jeg først kom forsigtigt i gang med at klatre igen for 3 uger siden, og har stadig mindre smerter og er begrænset i min klatring og træning. Og for at uddybe sidste spørgsmål, så har jeg kun været til læge en enkelt gang for at blive henvist til fysioterapeut, men har besøgt fysioterapeut ca 2 gange pr måned siden oktober",4,3,Gennemført
